@@ -1,14 +1,6 @@
-<div align="center">
-
-# Hi, I'm Zhibo 👋
-
-**Genomics · Bioinformatics · Human Genetics**
-
-🧬 Exploring human genetic variation through computational genomics.
-
-</div>
-
----
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
 ### 🌱 A little about me
 
