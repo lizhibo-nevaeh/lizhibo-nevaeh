@@ -10,7 +10,7 @@ I enjoy turning complex genomic data into questions that can actually be explore
 
 Currently, I'm especially curious about **human & statistical genetics** and how genomic data can help us understand disease biology.
 
-### 🔬 What I'm working on
+### 🔬 What I'm working on & exploring
 
 🧬 **Cancer genomics**  
 Building reproducible workflows for somatic variant analysis from WES/WGS data.
