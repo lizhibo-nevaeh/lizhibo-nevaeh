@@ -50,5 +50,5 @@ I'm especially curious about how genetic variation shapes **evolution, complex t
 ---
 
 <p align="center">
-  <i>🌿 Still learning, still curious — one genomic question at a time.</i>
+  <i>🌿 Still learning, still curious.</i>
 </p>
