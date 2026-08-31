@@ -4,17 +4,17 @@
 
 ## 🌱 A little about me
 
-I'm a genomics researcher with a background in **population genomics**, now working across **human genetics, cancer genomics, and long-read sequencing**.
+I'm a computational genomics researcher with a background in **evolutionary and population genomics**, now working across **human genetics, cancer genomics, and long-read sequencing**.
 
-I enjoy turning complex genomic data into questions that can actually be explored — from **variant calling and workflow development** to **benchmarking, population variation, and disease genetics**.
+My research experience spans comparative genomics and genome evolution, population structure and adaptation, and large-scale human variant analysis. I enjoy using genomic data to understand **genetic variation, evolution, and complex traits**.
 
-My current interests are moving increasingly toward **human & statistical genetics**, especially how large-scale genomic data can help us understand complex traits and disease biology.
+Currently, I'm especially interested in **human & statistical genetics**, long-read genomics, and how genomic variation contributes to disease biology.
 
 ---
 
 ## 🧬 Research interests
 
-`Human genetics` · `Cancer genomics` · `Long-read genomics` · `Population genomics` · `Statistical genetics`
+`Human genetics` · `Statistical genetics` · `Long-read genomics` · `Population & evolutionary genomics` · `Cancer genomics`
 
 ---
 
@@ -34,11 +34,16 @@ My current interests are moving increasingly toward **human & statistical geneti
 
 ---
 
-## 💻 Tools I often use
+## 🛠️ Methods & tools
 
-`R` · `Python` · `Bash` · `Linux` · `Snakemake`
+**Genomic analysis**  
+`GATK` · `DeepVariant` · `GLnexus` · `Sniffles2` · `bcftools` · `VEP` · `Truvari`
 
-`GATK` · `bcftools` · `samtools` · `VEP` · `DeepVariant` · `Truvari`
+**Population & evolutionary genomics**  
+`PCA / ADMIXTURE` · `Fst / π / Tajima's D` · `PSMC` · `PLINK` · `RAxML-NG` · `BEAST`
+
+**Computing & workflows**  
+`Python` · `R` · `Bash` · `Linux / HPC` · `SLURM` · `Snakemake` · `Docker / Apptainer`
 
 ---
 
