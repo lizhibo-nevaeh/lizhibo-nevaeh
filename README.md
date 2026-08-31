@@ -4,24 +4,26 @@
 
 ## 🌱 A little about me
 
-I'm a computational genomics researcher with a background in **evolutionary and population genomics**, now working across **human genetics, cancer genomics, and long-read sequencing**.
+Hi, I'm Zhibo 👋 I'm a computational genomics researcher who enjoys turning messy genomic data into questions that can actually be explored.
 
-My research experience spans comparative genomics and genome evolution, population structure and adaptation, and large-scale human variant analysis. I enjoy using genomic data to understand **genetic variation, evolution, and complex traits**.
+I started out in **evolutionary and population genomics**, working on genome evolution, population structure and adaptation. These days, I spend more of my time around **human genetics, cancer genomics and long-read sequencing**.
 
-Currently, I'm especially interested in **human & statistical genetics**, long-read genomics, and how genomic variation contributes to disease biology.
+I'm especially curious about how genetic variation shapes **evolution, complex traits and disease** — and I like building reproducible workflows that make those questions easier to investigate.
+
+> From populations and evolution to human genomes and long reads 🧬
 
 ---
 
-## 🧬 Research interests
+## 🔭 Things I'm curious about
 
 `Human genetics` · `Statistical genetics` · `Long-read genomics` · `Population & evolutionary genomics` · `Cancer genomics`
 
 ---
 
-## 🔬 Selected work
+## 🔬 A few things I've built
 
 - 🧬 **[Somatic Variant Workflow](https://github.com/lizhibo-nevaeh/somatic-variant-workflow)**  
-  Modular Snakemake workflow for paired tumor-normal WES/WGS analysis.
+  A modular Snakemake workflow for paired tumor-normal WES/WGS analysis.
 
 - 🌿 **[Population Genomics Workflow](https://github.com/lizhibo-nevaeh/population-genomics-workflow)**  
   Population structure, phylogeny, demographic history, LD decay and selection scans.
@@ -30,16 +32,16 @@ Currently, I'm especially interested in **human & statistical genetics**, long-r
   PacBio HiFi germline analysis with DeepVariant, Sniffles2, GLnexus and relatedness QC.
 
 - ⚡ **[Short-Read Germline Workflow](https://github.com/lizhibo-nevaeh/short-read-germline-workflow)**  
-  Dual CPU/GPU routes using GATK and DeepVariant/GLnexus for short-read germline analysis.
+  Two routes for short-read germline analysis: GATK on CPU and DeepVariant/GLnexus with GPU acceleration.
 
 ---
 
-## 🛠️ Methods & tools
+## 🛠️ My toolbox
 
 **Genomic analysis**  
 `GATK` · `DeepVariant` · `GLnexus` · `Sniffles2` · `bcftools` · `VEP` · `Truvari`
 
-**Population & evolutionary genomics**  
+**Population & evolution**  
 `PCA / ADMIXTURE` · `Fst / π / Tajima's D` · `PSMC` · `PLINK` · `RAxML-NG` · `BEAST`
 
 **Computing & workflows**  
@@ -48,5 +50,5 @@ Currently, I'm especially interested in **human & statistical genetics**, long-r
 ---
 
 <p align="center">
-  <i>🌿 Learning, building, and slowly turning genomic questions into reproducible analyses.</i>
+  <i>🌿 Still learning, still building — one genomic question at a time.</i>
 </p>
