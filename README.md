@@ -8,9 +8,9 @@ Hi, I'm Zhibo 👋 I'm a computational genomics researcher who enjoys turning me
 
 I started out in **evolutionary and population genomics**, working on genome evolution, population structure and adaptation. These days, I spend more of my time around **human genetics, cancer genomics and long-read sequencing**.
 
-I'm especially curious about how genetic variation shapes **evolution, complex traits and disease** — and I like building reproducible workflows that make those questions easier to investigate.
+I'm especially curious about how genetic variation shapes evolution, complex traits and disease — from populations to individual genomes.
 
-> From populations and evolution to human genomes and long reads 🧬
+> A genomics journey from plants, to birds, to humans 🌱🐦🧬
 
 ---
 
