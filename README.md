@@ -4,11 +4,11 @@
 
 ## 🌱 A little about me
 
-Hi, I'm Zhibo 👋 I'm a computational genomics researcher who enjoys turning messy genomic data into questions that can actually be explored.
+Hi, I'm Zhibo 👋 I'm a computational genomics researcher who likes digging into genomic data and figuring out what biological story it can tell.
 
 I started out in **evolutionary and population genomics**, working on genome evolution, population structure and adaptation. These days, I spend more of my time around **human genetics, cancer genomics and long-read sequencing**.
 
-I'm especially curious about how genetic variation shapes evolution, complex traits and disease — from populations to individual genomes.
+I'm especially curious about how genetic variation shapes **evolution, complex traits and disease** — across individuals, populations and species.
 
 > A genomics journey from plants, to birds, to humans 🌱🐦🧬
 
@@ -20,7 +20,7 @@ I'm especially curious about how genetic variation shapes evolution, complex tra
 
 ---
 
-## 🔬 A few things I've built
+## 🔬 A few things I've worked on
 
 - 🧬 **[Somatic Variant Workflow](https://github.com/lizhibo-nevaeh/somatic-variant-workflow)**  
   A modular Snakemake workflow for paired tumor-normal WES/WGS analysis.
@@ -50,5 +50,5 @@ I'm especially curious about how genetic variation shapes evolution, complex tra
 ---
 
 <p align="center">
-  <i>🌿 Still learning, still building — one genomic question at a time.</i>
+  <i>🌿 Still learning, still curious — one genomic question at a time.</i>
 </p>
