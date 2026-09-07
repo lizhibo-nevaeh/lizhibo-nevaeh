@@ -34,6 +34,9 @@ I'm especially curious about how genetic variation shapes **evolution, complex t
 - ⚡ **[Short-Read Germline Workflow](https://github.com/lizhibo-nevaeh/short-read-germline-workflow)**  
   Two routes for short-read germline analysis: GATK on CPU and DeepVariant/GLnexus with GPU acceleration.
 
+- 🧬 **[GWAS–eQTL Coloc & MR Learning Project](https://github.com/lizhibo-nevaeh/gwas-eqtl-coloc-mr-sort1-cad)**  
+  A hands-on statistical genetics case study integrating GWAS/eQTL summary statistics, allele harmonisation, colocalisation, LD clumping and Mendelian randomisation.
+
 ---
 
 ## 🛠️ My toolbox
@@ -46,6 +49,9 @@ I'm especially curious about how genetic variation shapes **evolution, complex t
 
 **Computing & workflows**  
 `Python` · `R` · `Bash` · `Linux / HPC` · `SLURM` · `Snakemake` · `Docker / Apptainer`
+
+**Statistical genetics**  
+`GWAS` · `eQTL` · `coloc` · `MR` · `LD` · `PLINK2`
 
 ---
 
