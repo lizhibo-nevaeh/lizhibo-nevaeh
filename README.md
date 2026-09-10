@@ -38,6 +38,9 @@ I'm especially curious about how genetic variation shapes **evolution, complex t
 - ⚡ **[Short-Read Germline Workflow](https://github.com/lizhibo-nevaeh/short-read-germline-workflow)**  
   Two routes for short-read germline analysis: GATK on CPU and DeepVariant/GLnexus with GPU acceleration.
 
+- 📊 **[Exploring Polygenic Risk Scores](https://github.com/lizhibo-nevaeh/exploring-polygenic-risk-scores)**  
+  A hands-on learning project exploring PRS from basic scoring and allele harmonisation to C+T, PRSice-2, LDpred2 and PRS-CS, followed by a genome-wide CAD case study using public data.
+
 - 🧬 **[GWAS–eQTL Coloc & MR Learning Project](https://github.com/lizhibo-nevaeh/gwas-eqtl-coloc-mr-sort1-cad)**  
   A hands-on statistical genetics case study integrating GWAS/eQTL summary statistics, allele harmonisation, colocalisation, LD clumping and Mendelian randomisation.
 
@@ -57,9 +60,9 @@ I'm especially curious about how genetic variation shapes **evolution, complex t
 
 `Python` · `R` · `Bash` · `Linux / HPC` · `SLURM` · `Snakemake` · `Docker / Apptainer`
 
-**Statistical genetics**
+**Statistical genetics**  
 
-`GWAS` · `eQTL` · `coloc` · `MR` · `LD` · `PLINK2`
+`GWAS` · `eQTL` · `coloc` · `MR` · `PRS` · `LD` · `PLINK2`
 
 ---
 
