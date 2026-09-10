@@ -38,11 +38,17 @@ I'm especially curious about how genetic variation shapes **evolution, complex t
 - ⚡ **[Short-Read Germline Workflow](https://github.com/lizhibo-nevaeh/short-read-germline-workflow)**  
   Two routes for short-read germline analysis: GATK on CPU and DeepVariant/GLnexus with GPU acceleration.
 
+---
+
+## 🌱 Independent learning projects
+
+Outside my current work, I've been using small hands-on projects to learn more about statistical genetics.
+
 - 📊 **[Exploring Polygenic Risk Scores](https://github.com/lizhibo-nevaeh/exploring-polygenic-risk-scores)**  
-  A hands-on learning project exploring PRS from basic scoring and allele harmonisation to C+T, PRSice-2, LDpred2 and PRS-CS, followed by a genome-wide CAD case study using public data.
+  A step-by-step learning project exploring PRS concepts, from basic scoring and allele harmonisation to C+T, PRSice-2, LDpred2 and PRS-CS, followed by a genome-wide CAD case study using public data.
 
 - 🧬 **[GWAS–eQTL Coloc & MR Learning Project](https://github.com/lizhibo-nevaeh/gwas-eqtl-coloc-mr-sort1-cad)**  
-  A hands-on statistical genetics case study integrating GWAS/eQTL summary statistics, allele harmonisation, colocalisation, LD clumping and Mendelian randomisation.
+  A hands-on learning project using a SORT1–CAD example to explore GWAS/eQTL summary statistics, allele harmonisation, colocalisation, LD clumping and Mendelian randomisation.
 
 ---
 
